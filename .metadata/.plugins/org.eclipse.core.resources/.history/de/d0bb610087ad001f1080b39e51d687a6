@@ -1,0 +1,12 @@
+package com.nt.SiimplyCodingStringWord;
+
+public class CountEndingWithD {
+
+	public static void main(String[] args) {
+		
+		String str = "A Red Seed";
+		str =str+" ";
+		String word = "";
+		int count = 0;
+	}
+}

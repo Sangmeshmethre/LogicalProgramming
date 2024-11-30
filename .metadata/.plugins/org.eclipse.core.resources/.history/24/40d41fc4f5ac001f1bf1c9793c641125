@@ -1,0 +1,11 @@
+package com.nt.SiimplyCodingString;
+
+//Create a String  With Digits First and then Character
+
+public class DigitFistAndCharacter {
+
+	public static void main(String[] args) {
+		
+		String str = "NO26 Sound";
+	}
+}

@@ -1,0 +1,9 @@
+package com.nt.ApexonLogical;
+
+public class SmallestMissingInteger {
+
+	public static void main(String[] args) {
+		
+		int[] arr = {1,2,3,4};
+	}
+}

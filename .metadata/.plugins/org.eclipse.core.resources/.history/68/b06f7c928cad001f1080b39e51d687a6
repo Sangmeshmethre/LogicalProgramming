@@ -1,0 +1,13 @@
+package com.nt.SiimplyCodingStringWord;
+
+
+//Write a Program to capitalized each word of a sentence
+
+public class CapitalizedFirstWord {
+
+	public static void main(String[] args) {
+		
+		String str = "a red seed";
+		str =str+" ";
+	}
+}

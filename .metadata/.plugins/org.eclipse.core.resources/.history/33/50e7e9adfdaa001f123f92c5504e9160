@@ -1,0 +1,21 @@
+package com.nt.BePracticalTechPrograms;
+
+//Java Program to find the minimum Distance between Array Element
+//input::
+/*int[] arr = {21, 25, 29, 11, 15, 10};
+int fistElement = 25;
+int SecondElement = 15;*/
+
+public class MinimumDistanceOfTwoArray {
+
+	public static void main(String[] args) {
+		
+		int[] arr = {21, 25, 29, 11, 15, 10};
+		int fistElement = 25;
+		int secondElement = 15;
+		
+		findMinDistance(arr, fistElement,secondElement);
+	}
+	
+	public static void findMinDistance(int[] arr, int fistElement, int secondElement)
+}

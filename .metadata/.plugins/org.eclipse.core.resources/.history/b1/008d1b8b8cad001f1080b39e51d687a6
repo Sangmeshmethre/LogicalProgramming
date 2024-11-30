@@ -1,0 +1,8 @@
+package com.nt.SiimplyCodingStringWord;
+
+
+//Write a Program to capitalized each word of a sentence
+
+public class CapitalizedFirstWord {
+
+}

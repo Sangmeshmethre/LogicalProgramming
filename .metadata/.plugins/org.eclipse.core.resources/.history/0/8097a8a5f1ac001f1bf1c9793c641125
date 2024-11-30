@@ -1,0 +1,11 @@
+package com.nt.SiimplyCodingCharacter;
+
+//Print only LowerCase Characters of a String
+
+public class OnlyLowerCaseCharacter {
+
+	public static void main(String[] args) {
+		
+		String str = "Its Simple";
+	}
+}

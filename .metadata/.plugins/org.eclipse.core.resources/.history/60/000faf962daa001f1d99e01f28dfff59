@@ -1,0 +1,33 @@
+package com.nt.ApexonLogical;
+
+import java.util.Scanner;
+
+public class AtoiFunction {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		System.out.print("Enter string::");
+		String str = sc.nextLine();
+		
+		System.out.println("String To Integer::"+myAtoiFunction(str));
+	}
+	
+	public static int myAtoiFunction(String str) {
+		
+		int i=0; 
+		int sing = 1;
+		int result = 0;
+		
+		if(str==null || str.isEmpty()) {
+			return -1;
+		}
+		
+		str = str.trim();
+		
+		if(str.charAt(0) == '-') {
+			sing = -1;
+			i++;
+		}
+	}
+}

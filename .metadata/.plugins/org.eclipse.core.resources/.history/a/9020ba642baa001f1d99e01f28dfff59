@@ -1,0 +1,20 @@
+package com.nt.ApexonLogical;
+
+import java.util.Scanner;
+
+public class FistNonRepeatingCharacterString {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		System.out.print("Enter String");
+		String str = sc.nextLine();
+		
+		findFistNonRepeatingChar(str);
+	}
+	
+	public static void findFistNonRepeatingChar(String str) {
+		
+		Map<Character, Integer> map = new HashMap<Character, Integer>();
+	}
+}

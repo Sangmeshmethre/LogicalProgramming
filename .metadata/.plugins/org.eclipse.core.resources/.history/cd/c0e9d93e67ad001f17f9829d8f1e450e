@@ -1,0 +1,9 @@
+package com.nt.BePracticalTechPrograms;
+
+
+//Find the leader Element in an array, 
+//input::
+//	arr[] = {14, 12, 70, 15, 99, 65, 21, 90};
+public class LeaderElement {
+
+}

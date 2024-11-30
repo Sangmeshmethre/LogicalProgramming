@@ -1,0 +1,8 @@
+package com.nt.SiimplyCodingStringWord;
+
+
+//Change Red with Blue in a sentence and print it.
+
+public class ReplaceWord {
+
+}

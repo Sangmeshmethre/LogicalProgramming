@@ -1,0 +1,14 @@
+package com.nt.ApexonLogical;
+
+public class SubArrayOfTwoSum {
+
+	public static void main(String[] args) {
+		
+		int[] arr = {2,4,6,10, 2, 1};
+		int k = 12;
+		
+		findSubArrayOfSum(arr, k){
+			
+		}
+	}
+}

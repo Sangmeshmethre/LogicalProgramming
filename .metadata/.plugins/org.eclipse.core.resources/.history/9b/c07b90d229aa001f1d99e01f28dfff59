@@ -1,0 +1,22 @@
+package com.nt.ApexonLogical;
+
+import java.util.Scanner;
+
+class Node{
+	int data;
+	Node left, right;
+	
+	public Node(int data) {
+		this.data = data;
+		left= right=null;
+	}
+}
+public class BinaryTree {
+
+	Node root;
+	
+	public static void main(String[] args) {
+		
+		BinaryTree bt = new BinaryTree();
+	}
+}

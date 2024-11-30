@@ -1,0 +1,14 @@
+package com.nt.BePracticalTechPrograms;
+
+//Given An Array arr[] of Integer FindPeak Element i.e. an element that is not smaller Than its neighbors.
+// int[] arr = {5, 10, 20, 15};
+
+public class PeakElement {
+
+	public static void main(String[] args) {
+		
+		int[] arr = {5, 10, 20, 15};
+		
+		int n = arr.length;
+	}
+}

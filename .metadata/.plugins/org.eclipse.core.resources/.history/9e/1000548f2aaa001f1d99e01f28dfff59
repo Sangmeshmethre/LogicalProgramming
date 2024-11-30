@@ -1,0 +1,9 @@
+package com.nt.ApexonLogical;
+
+public class PreFixeSearch {
+
+	public static void main(String[] args) {
+		
+		String[] arr = {"apple", "applet", "apear","bread"};
+	}
+}

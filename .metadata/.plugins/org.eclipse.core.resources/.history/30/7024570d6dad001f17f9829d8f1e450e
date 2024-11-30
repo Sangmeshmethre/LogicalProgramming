@@ -1,0 +1,12 @@
+package com.nt.BePracticalTechPrograms;
+
+
+//Given an array of integer of size N, the task is to find 
+// the first non repeating element in this array
+public class FirstNonRepitingElement {
+
+	public static void main(String[] args) {
+		
+		
+	}
+}

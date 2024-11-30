@@ -1,0 +1,12 @@
+package com.nt.SiimplyCodingCharacter;
+
+
+// Print each character of the string in separate line
+
+public class PrintCharacter {
+
+	public static void main(String[] args) {
+		
+		String str = "ITS SIMPLE";
+	}
+}

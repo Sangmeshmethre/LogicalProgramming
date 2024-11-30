@@ -1,0 +1,12 @@
+package com.nt.SiimplyCodingStringWord;
+
+
+//Count the number of words in a Sentence
+
+public class CountWord {
+
+	public static void main(String[] args) {
+		
+		
+	}
+}

@@ -1,0 +1,11 @@
+package com.nt.SiimplyCodingCharacter;
+
+//Print only Alphabets Character of String
+
+public class OnlyAlphabates {
+
+	public static void main(String[] args) {
+		
+		String str = "Its Simply";
+	}
+}

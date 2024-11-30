@@ -1,0 +1,15 @@
+package com.nt.SiimplyCodingString;
+
+import java.util.Scanner;
+
+// String Encoding program - Piglatin
+
+public class PiglatinString {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		System.out.print("Enter String::");
+		String str = sc.nextLine();
+	}
+}

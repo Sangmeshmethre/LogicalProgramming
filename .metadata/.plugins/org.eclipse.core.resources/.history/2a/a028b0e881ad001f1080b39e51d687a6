@@ -1,0 +1,13 @@
+package com.nt.SiimplyCodingStringWord;
+
+
+//Print only words having 3 characters in a Sentence
+
+public class ThreeWordCharacter {
+
+	public static void main(String[] args) {
+		
+		String str = "A Red Seed";
+		str =str+" ";
+	}
+}

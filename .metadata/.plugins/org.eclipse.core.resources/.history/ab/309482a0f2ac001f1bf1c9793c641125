@@ -1,0 +1,7 @@
+package com.nt.SiimplyCodingCharacter;
+
+
+// Count only upperCase Characters in a String
+public class CountUpperCaseCharacter {
+
+}

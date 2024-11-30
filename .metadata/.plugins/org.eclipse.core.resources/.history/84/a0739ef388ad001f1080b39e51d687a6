@@ -1,0 +1,17 @@
+package com.nt.SiimplyCodingStringWord;
+
+public class CountSpacificLength {
+
+	public static void main(String[] args) {
+		
+		String str = "A REED SEED";
+		str = str+" ";
+		String word = "";
+		int count =0;
+		
+		for(int i=0; i<str.length(); i++) {
+			
+			char ch = str.charAt(i);
+		}
+	}
+}

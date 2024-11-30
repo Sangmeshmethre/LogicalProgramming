@@ -1,0 +1,8 @@
+package com.nt.SiimplyCodingStringWord;
+
+
+//Find if the word OR exists in a String
+
+public class WordORExistInString {
+
+}

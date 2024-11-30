@@ -1,0 +1,17 @@
+package com.nt.apexonLogicalProgram;
+
+
+class Node{
+	
+	int data;
+	Node left, right;
+}
+public class InorderBinaryTree {
+
+	Node root;
+	
+	public static void main(String[] args) {
+		
+		InorderBinaryTree bt = new InOrderBinaryTree();
+	}
+}

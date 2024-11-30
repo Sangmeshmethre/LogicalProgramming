@@ -1,0 +1,15 @@
+package com.nt.SiimplyCodingStringWord;
+
+
+//Print all special word in a String . eg.Anna, bob
+
+
+public class SpacialWordInSentence {
+
+	public static void main(String[] args) {
+		
+		String str = "MOM OR DAD";
+		
+		str =str+" ";
+	}
+}

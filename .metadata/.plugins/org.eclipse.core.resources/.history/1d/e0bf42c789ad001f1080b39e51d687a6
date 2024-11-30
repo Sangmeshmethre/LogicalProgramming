@@ -1,0 +1,13 @@
+package com.nt.SiimplyCodingStringWord;
+
+
+//Change Red with Blue in a sentence and print it.
+
+public class ReplaceWord {
+
+	public static void main(String[] args) {
+		
+		String str = "A RED SEED";
+		str = str+" ";
+	}
+}

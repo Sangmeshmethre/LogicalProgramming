@@ -1,0 +1,13 @@
+package com.nt.SiimplyCodingStringWord;
+
+
+//Count the number of Words Starting With D in a sentence
+
+
+public class CountStartingWith {
+
+	public static void main(String[] args) {
+		
+		String str = "A REED SEED";
+	}
+}

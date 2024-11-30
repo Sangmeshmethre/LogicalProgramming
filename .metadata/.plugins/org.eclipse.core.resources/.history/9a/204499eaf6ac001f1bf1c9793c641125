@@ -1,0 +1,23 @@
+package com.nt.SiimplyCodingString;
+
+//Create new String with upperCAse first and then remaining String
+
+public class FistUpperCaseThenLowerCase {
+
+	public static void main(String[] args) {
+		
+		String str = "NO26 Sound";
+		
+		String u = "", c = "";
+		
+		for(int i=0; i<str.length(); i++) {
+			
+			char ch = str.charAt(i);
+			
+			if(Character.isUpperCase(ch)) {
+				
+				u = u+ch;
+			}
+		}
+	}
+}

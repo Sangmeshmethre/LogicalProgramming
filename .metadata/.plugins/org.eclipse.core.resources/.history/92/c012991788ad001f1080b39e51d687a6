@@ -1,0 +1,9 @@
+package com.nt.SiimplyCodingStringWord;
+
+public class CountContains {
+
+	public static void main(String[] args) {
+		
+		String str = "A Reed Seed";
+	}
+}

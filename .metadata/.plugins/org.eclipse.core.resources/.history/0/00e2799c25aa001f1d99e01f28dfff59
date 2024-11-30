@@ -1,0 +1,32 @@
+package com.nt.ApexonLogical;
+
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Scanner;
+
+public class LargestRepitedSubString {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		System.out.print("Enter String::");
+		String str = sc.nextLine();
+		
+		findLargestRepitingSubstring(str);
+	}
+	
+	public static void findLargestRepitingSubstring(String str) {
+		
+		String largestString = null;
+		int largestLength = 0;
+		
+		char[] arr = str.toCharArray();
+		
+		Map<Character, Integer> map = new HashMap<Character, Integer>();
+		
+		for(int i=0; i<arr.length; i++) {
+			
+			char ch = str.charAt(i);
+		}
+	}
+}

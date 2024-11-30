@@ -1,0 +1,7 @@
+package com.nt.SiimplyCodingStringWord;
+
+
+//Write a program to swap first and Last letter of each word of sentence
+public class SwapFirstAndLastLetter {
+
+}

@@ -1,0 +1,12 @@
+package com.nt.ApexonLogical;
+
+public class LargestWordInArray {
+
+	public static void main(String[] args) {
+		
+		String[] dict = {"CODGE", "ODG", "LODGES", "SODG", "dodge","mODJ", "LODGESSSS"};
+		String toString = "ODG";
+		
+		String word = "", lword = "";
+	}
+}

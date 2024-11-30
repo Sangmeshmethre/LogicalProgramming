@@ -1,0 +1,13 @@
+package com.nt.SiimplyCodingStringWord;
+
+
+//Print only the words starting with R in a sentence
+
+
+public class StartingWithR {
+
+	public static void main(String[] args) {
+		
+		String str = "In the box";
+	}
+}

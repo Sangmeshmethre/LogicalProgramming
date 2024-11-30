@@ -1,0 +1,13 @@
+package com.nt.SiimplyCodingString;
+
+////Write a program to reverse the case of a String
+
+public class ReversedCaseString {
+
+	public static void main(String[] args) {
+		
+		String str = "NO26 Sound";
+		
+		String sn = "";
+	}
+}

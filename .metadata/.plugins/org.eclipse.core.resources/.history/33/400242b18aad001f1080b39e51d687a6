@@ -1,0 +1,13 @@
+package com.nt.SiimplyCodingStringWord;
+
+
+//Delete the word RED in a Sentence and print it.
+
+public class DeleteWord {
+
+	public static void main(String[] args) {
+		
+		String str = "A RED SEED";
+		str = str+" ";
+	}
+}

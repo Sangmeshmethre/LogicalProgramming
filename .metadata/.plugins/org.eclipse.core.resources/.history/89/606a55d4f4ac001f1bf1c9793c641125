@@ -1,0 +1,11 @@
+package com.nt.SiimplyCodingString;
+
+// Create a new String Containing  only upperCase Character
+
+public class CreateNewString {
+
+	public static void main(String[] args) {
+		
+		String str = "Its Simple";
+	}
+}

@@ -1,0 +1,40 @@
+package com.nt.apexonLogicalProgram;
+
+
+class Node{
+	
+	int data;
+	Node left, right;
+	
+	public Node(int v) {
+		
+		data = v;
+		left = null;
+		right = null;
+	}
+}
+public class InorderBinaryTree {
+
+	Node root;
+	
+	InorderBinaryTree(){
+		root = null;
+	}
+	public static void main(String[] args) {
+		
+		InorderBinaryTree bt = new InorderBinaryTree();
+		
+		bt.root = new Node(1);
+		bt.root.left = new Node(2);
+		bt.root.right = new Node(3);
+		bt.root.left.left = new Node(4);
+		bt.root.left.right = new Node(5);
+		bt.root.right.right = new Node(6);
+		
+		bt.inOrderBinaryTree();
+	}
+	
+	void inOrderBinaryTree(Node node) {
+		
+	}
+}

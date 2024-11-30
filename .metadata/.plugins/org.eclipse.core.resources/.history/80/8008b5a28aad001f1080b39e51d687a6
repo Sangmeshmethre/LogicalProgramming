@@ -1,0 +1,8 @@
+package com.nt.SiimplyCodingStringWord;
+
+
+//Delete the word RED in a Sentence and print it.
+
+public class DeleteWord {
+
+}

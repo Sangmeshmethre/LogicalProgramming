@@ -1,0 +1,8 @@
+package com.nt.SiimplyCodingStringWord;
+
+
+//Print only the words starting with R in a sentence
+
+public class StartingWithR {
+
+}

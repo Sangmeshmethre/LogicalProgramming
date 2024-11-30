@@ -1,0 +1,9 @@
+package com.nt.SiimplyCodingStringWord;
+
+public class CountSpacificLength {
+
+	public static void main(String[] args) {
+		
+		Stirng str = "A REED SEED";
+	}
+}
