@@ -1,6 +1,0 @@
-package com.nt.SiimplyCodingString;
-
-//Create new String with upperCAse first and then remaining String
-public class FistUpperCaseThenLowerCase {
-
-}

@@ -1,7 +1,0 @@
-package com.nt.SiimplyCodingCharacter;
-
-
-//Print only Digits Character of a string;
-public class PrintOnlyDigite {
-
-}

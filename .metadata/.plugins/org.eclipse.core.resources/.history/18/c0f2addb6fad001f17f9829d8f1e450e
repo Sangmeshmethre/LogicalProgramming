@@ -1,9 +1,0 @@
-package com.nt.BePracticalTechPrograms;
-
-
-//Given an array arr[] of size n containing 0 and 1 only.
-// the problem is to count the subArray having an equals number of 0 and 1
-//int[] arr = {1,0, 0, 1, 0, 1, 1};
-public class SubArrayWithEqualElement {
-
-}

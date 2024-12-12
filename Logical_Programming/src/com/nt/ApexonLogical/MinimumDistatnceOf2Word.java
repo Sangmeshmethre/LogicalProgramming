@@ -34,13 +34,13 @@ public class MinimumDistatnceOf2Word {
 			
 			if(word[i].equals(word1)) {
 				lastIndex1 = i;
-				if(lastIndex2 != -1) {
+				if(lastIndex1 != -1) {
 					minLength = Math.min(minLength, Math.abs(lastIndex1-lastIndex2));
 				}
 			}
 			if(word[i].equals(word2)) {
 				lastIndex2 = i;
-				if(lastIndex1 != -1) {
+				if(lastIndex2 != -1) {
 					minLength = Math.min(minLength, Math.abs(lastIndex1-lastIndex2));
 				}
 			}

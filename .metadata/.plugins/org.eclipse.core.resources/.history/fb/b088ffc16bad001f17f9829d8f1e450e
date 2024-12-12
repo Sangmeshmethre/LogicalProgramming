@@ -1,9 +1,0 @@
-package com.nt.BePracticalTechPrograms;
-
-
-//Given an array of n element that contain element from 0-n-1
-//with any of these numbers appearing any number of times. find This repeating Numbers.
-//Input : n=7 and array[] = {1, 2, 3, 6, 3, 6,1};
-public class DuplicateElement {
-
-}

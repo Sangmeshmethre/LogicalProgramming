@@ -1,8 +1,0 @@
-package com.nt.SiimplyCodingString;
-
-
-//Create a word encoding Program which moves each letter by 2 e.g:A become C, B becomes D, Y become A and so on.
-
-public class EncodingProgram {
-
-}
