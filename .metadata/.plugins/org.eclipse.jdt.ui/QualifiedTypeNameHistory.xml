@@ -2,16 +2,20 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.security.DomainCombiner"/>
     <fullyQualifiedTypeName name="com.nt.p1.SubStringLength"/>
-    <fullyQualifiedTypeName name="java.lang.Character"/>
     <fullyQualifiedTypeName name="java.lang.StackTraceElement"/>
     <fullyQualifiedTypeName name="com.nt.sturday.SmallestAndSecondLargestElement"/>
     <fullyQualifiedTypeName name="com.nt.BePractice.SmallestAndSecondLargestElement"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="com.nt.Sunday.ExpandeCharacter"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.nt.NumberProgram.PrintDigit"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="com.nt.p5.CharacterToNumber"/>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="com.nt.p1.CharacterToNumber"/>
     <fullyQualifiedTypeName name="java.util.Map.Entry"/>
     <fullyQualifiedTypeName name="java.util.Collections"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="com.nt.NumberProgram.PrintDigit"/>
 </qualifiedTypeNameHistroy>
